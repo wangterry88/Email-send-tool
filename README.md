@@ -2,7 +2,7 @@
 
 This is a web deveploed with Django Web application framework.
 
-Demo: http://150.230.63.31:8886/
+Demo: http://geneservice.ddns.net:8886/
 
 ## User story:
 
